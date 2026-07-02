@@ -1,0 +1,11 @@
+# productId,name,category,price
+101,Samsung Galaxy S23,Electronics,79999
+102,OnePlus 11,Electronics,56999
+103,Sony WH-1000XM5,Electronics,29999
+104,Introduction to Algorithms,Books,999
+105,Clean Code,Books,799
+106,Nike Air Max,Footwear,8999
+107,Adidas Ultraboost,Footwear,12999
+108,Instant Pot,Kitchen,7499
+109,Atomic Habits,Books,449
+110,Apple AirPods Pro,Electronics,24999

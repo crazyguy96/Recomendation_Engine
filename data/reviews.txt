@@ -1,0 +1,16 @@
+# userId,productId,rating,timestamp,reviewText
+1,101,4.5,1700000100,Amazing camera and battery life
+1,103,5.0,1700000200,Best headphones I have ever used
+1,104,4.0,1700000300,Great DSA book for interviews
+2,101,3.5,1700000400,Good phone but gets hot sometimes
+2,102,4.5,1700000500,Smooth performance excellent value
+2,109,5.0,1700000600,Changed how I think about habits
+3,102,4.0,1700000700,Really liked the display quality
+3,103,4.5,1700000800,Noise cancellation is top notch
+3,106,3.5,1700000900,Decent shoes but sizing runs small
+4,104,5.0,1700001000,Must read for every CS student
+4,105,4.5,1700001100,Practical advice for writing code
+4,109,4.0,1700001200,Very motivating and easy to read
+5,106,4.5,1700001300,Super comfortable for daily use
+5,107,5.0,1700001400,Best running shoes hands down
+5,110,4.0,1700001500,Great sound quality worth the price

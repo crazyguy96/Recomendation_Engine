@@ -1,0 +1,6 @@
+# userId,name,email
+1,Arjun Sharma,arjun@gmail.com
+2,Raj Kataria,raj@gmail.com
+3,Rohit Verma,rohit@gmail.com
+4,Sneha Patel,sneha@gmail.com
+5,Karan Mehta,karan@gmail.com
